@@ -18,15 +18,10 @@ Strategy, creativity, and consulting roles
 Modular AI archetypes inspired by the writings, voice, and worldview of influential figures. All locally hosted and opt-in.
 
 - MLK for justice & empathy
-
 - Carl Sagan for curiosity & science
-
 - Bill Gates for business & philanthropy
-
 - Sun Tzu for planning & tactics
-
 - Dave Chappelle for wit & comic relief
-
 
 Conversational Robotics That Respect Sacred Trust. Privacy-First by Design.
 
@@ -152,14 +147,11 @@ ATHERA is seeking collaborators to help push the frontier:
 📄 License
 
 Mozilla Public License 2.0 (MPL-2.0)
-
 Shared progress, not proprietary lock-in. Commercial use welcome — with contribution.
 
 🦉 From Garage Hack to Sacred Trust
 
 ATHERA began as a salvaged Roomba and a dream of building soulful AI without surveillance. This is the first serious attempt to solve the Sacred Trust Problem in AI — and we’re doing it together.
-
 The first prototype is a low-cost, owl-shaped companion that surfs on a Roomba. The future version will be smarter, more graceful, and more expressive — but it will never betray your trust.
-
 Kickstarter launch coming soon. Follow the journey. Fork the owl.
 
