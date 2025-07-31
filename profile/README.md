@@ -1,3 +1,8 @@
+Conversational Robotics That Respect Sacred Trust. Privacy-First by Design.
+
+ATHERA is a privacy-anchored, open-source robotics initiative developing soulful, embodied AI companions that operate entirely on user-owned data. We are committed to local inferencing, transparency, and open collaboration — not as marketing, but as a mission. Our ultimate goal is to pioneer emotionally intelligent robotic agents that can counsel, teach, support, and inspire—without ever violating trust.
+
+
 🧭 Core Principles
 
 Privacy is the core, not a feature — all user data is stored and processed locally. No telemetry, no silent analytics, no cloud dependency. Fully open-source from hardware to firmware to UI. 
@@ -13,19 +18,13 @@ Teaching, tutoring & mentoring
 Aging & disability assistance
 Strategy, creativity, and consulting roles
 
-🧠 AI Personality Skins (Experimental)
-
-Modular AI archetypes inspired by the writings, voice, and worldview of influential figures. All locally hosted and opt-in.
+🧠 AI Personality Skins (Experimental):  Modular AI archetypes inspired by the writings, voice, and worldview of influential figures. All locally hosted and opt-in.
 
 - MLK for justice & empathy
 - Carl Sagan for curiosity & science
 - Bill Gates for business & philanthropy
 - Sun Tzu for planning & tactics
 - Dave Chappelle for wit & comic relief
-
-Conversational Robotics That Respect Sacred Trust. Privacy-First by Design.
-
-ATHERA is a privacy-anchored, open-source robotics initiative developing soulful, embodied AI companions that operate entirely on user-owned data. We are committed to local inferencing, transparency, and open collaboration — not as marketing, but as a mission. Our ultimate goal is to pioneer emotionally intelligent robotic agents that can counsel, teach, support, and inspire—without ever violating trust.
 
 🔀 Two-Fork Development Model
 
@@ -52,10 +51,7 @@ These packs are tributes — not impersonations. No cloud required. No user data
 
 🌐 Stack Overview
 
-Layer
-
-Fork #1
-
+# Fork #1
 ChatGPT API or open LLM
 Roomba (salvaged)
 ESP32 via UART
@@ -63,10 +59,7 @@ Coqui, Vosk, Whisper
 USB mic & speaker
 Gestures: None
 
-
-
-Fork #2
-
+# Fork #2
 Roomba Pro or custom tracked base
 Local LLM on Jetson / API fallback
 High-fidelity TTS (Piper, faster)
@@ -74,8 +67,6 @@ Arduino Mega / RPi5 (serial/i2c)
 STT / TTS
 MEMS mic array + stereo output
 Gestures: Servo limbs, head tilt, wing flaps
-
-
 
 
 🛠️ Installation
