@@ -1,4 +1,5 @@
 **"If you could have dinner with anyone from history..."**
+
 Conversational Robotics That Respect Sacred Trust. Privacy-First by Design.
 
 AtheraSage is a privacy-anchored, open-source robotics initiative developing soulful, embodied AI companions that operate entirely on user-owned data. We are committed to local inferencing, transparency, and open collaboration — not as marketing, but as a mission. Our ultimate goal is to pioneer emotionally intelligent robotic agents that can counsel, teach, support, and inspire—without ever violating trust.
@@ -9,6 +10,7 @@ AtheraSage is a privacy-anchored, open-source robotics initiative developing sou
 Privacy is the core, not a feature — all user data is stored and processed locally. No telemetry, no silent analytics, no cloud dependency. Fully open-source from hardware to firmware to UI. 
 Accessible to beginners but extensible for pros. Supports modular AI Personality Skins (APS) inspired by real-world thinkers.
 
+
 💡 **Long-Term Vision**
 
 AtheraSage is not just a robot, it's a commitment to build AI software companions that are wise, humorous, soulful, and responsive. This will include the development of a platform that enables real-world interaction in:
@@ -17,10 +19,14 @@ AtheraSage is not just a robot, it's a commitment to build AI software companion
 - Aging & disability assistance with caregiver roles
 - Strategy, creativity, and consulting roles
 
-🧠 **AI Personality Skins (APS)**:  Modular AI archetypes inspired by the writings, speech, and worldview of influential figures. All locally hosted and opt-in. Some examples may include: 
+
+🧠 **AI Personality Skins (APS)**:  
+
+Modular AI archetypes inspired by the writings, speech, and worldview of influential figures. All locally hosted and opt-in. Some examples may include: 
 - MLK for justice & empathy
 - Carl Sagan for curiosity & science
 - Sun Tzu for planning & tactics
+
 
 🔀 **Two-Phase Development Model**
 
@@ -43,7 +49,9 @@ AtheraSage is not just a robot, it's a commitment to build AI software companion
 - Servo array for gestural expression (wings, head tilt)
 - LED eyes or full display for facial cues
 
-🚀 **Get Involved**: AtheraSage is seeking collaborators to help push the frontier and evolve the vision. Some example roles may include
+
+🚀 **Get Involved**: 
+AtheraSage is seeking collaborators to help push the frontier and evolve the vision. Some example roles may include
 - Hardware tinkerers (3D print, CAD, PCB)
 - Embedded devs (ESP32, RPi, Arduino, Jetson)
 - Audio/voice AI experts (mic arrays, acoustic models)
@@ -57,7 +65,9 @@ AtheraSage is not just a robot, it's a commitment to build AI software companion
 - Private training goals: local inferencing for LLM fine-tuning via aggregate pattern learning
 - See DATA_SECURITY.md for implementation details.
 
+
 📁 Repository Layout
+
 .
 
 ├── README.md
@@ -71,23 +81,37 @@ AtheraSage is not just a robot, it's a commitment to build AI software companion
 ├── DATA_SECURITY.md
 
 ├── docs/
-│   ├── teardown/
-│   ├── wiring/
-│   ├── photos/
-│   └── diagrams/
+
+│    ├── teardown/
+
+│    ├── wiring/
+
+│    ├── photos/
+
+│    └── diagrams/
+
 
 ├── firmware/
-│   ├── esp32_controller.ino
-│   └── arduino_roomba_driver.ino
+
+│    ├── esp32_controller.ino
+
+│    └── arduino_roomba_driver.ino
+
 
 ├── scripts/
+
 │   ├── speech_bridge.py
+
 │   ├── serial_bridge.py
+
 │   └── mic_test.py
+
 
 📄 License
 Mozilla Public License 2.0 (MPL-2.0)
+
 Shared progress, not proprietary lock-in. Commercial use welcome — with contribution.
+
 
 🦉 From Garage Hack to Sacred Trust
 
