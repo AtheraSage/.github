@@ -9,13 +9,19 @@ Privacy is the core, not a feature — all user data is stored and processed loc
 Accessible to beginners but extensible for pros. Supports modular APS inspired by real-world thinkers.
 
 
-💡 **Long-Term Vision**
+💡 Vision Statement
 
-AtheraSage is not just a robot, it's a commitment to build AI software companions that are wise, humorous, soulful, and responsive. This will include the development of a platform that enables real-world interaction in:
-- Counseling & therapeutic services for mental health 
-- Teaching, tutoring & mentoring for learners of all ages
-- Aging & disability assistance with caregiver roles
-- Strategy, creativity, and consulting roles
+AtheraSage is building ethically grounded AI companions designed to be wise, trustworthy, and responsive. Every contribution to the project must reflect a commitment to these values, with developers holding themselves accountable to high ethical standards rooted in human-centered design.
+
+Our goal is to create a platform for real-world AI interaction across meaningful domains, including:
+
+Mental health support through counseling and therapeutic presence
+
+Education via teaching, tutoring, and mentoring for all ages
+
+Assisted care for aging adults and individuals with disabilities
+
+Advisory roles in leadership, creativity, and executive decision-making
 
 
 🧠 **AI Personality Skins (APS)**:  
