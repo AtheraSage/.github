@@ -14,6 +14,23 @@ Use cases may include:
 
 🇺🇸️ Use a personality-skin inspired by Abraham Lincoln to help you write a persuasive speech to get that C-suite management promotion.
 
+See `DATA_SECURITY.md` for implementation details, including how we ensure all processing remains on-device—no hidden network calls, no surveillance, no silent data collection.
+
+---
+## 🎯 Vision & Values
+
+AtheraSage is building ethically grounded AI companions that are wise, trustworthy, and responsive — while keeping user privacy non-negotiable. Every interaction is powered locally, with no hidden network calls, no surveillance, and no silent data collection.
+
+Contributions to the platform must align with our core principles:
+- Respect user autonomy and privacy by design
+- Support emotional intelligence and expressive interaction
+- Ensure transparency, modifiability, and ethical grounding
+
+Intended applications include:
+- Mental health support through therapeutic presence
+- Teaching and mentorship for learners of all ages
+- Assistive caregiving for aging and disabled individuals
+- Advisory roles for leaders, creatives, and innovators
 ---
 
 ## 🛠️ Development Roadmap
@@ -31,6 +48,27 @@ Roadmap subject to iteration. Detailed build notes and technical documentation w
 ## 🌍 Building in Public
 
 We believe powerful AI should be open, inspectable, and  remixable —not locked behind NDAs. Our roadmap is transparent, but evolving. You’re welcome to follow, fork, or build alongside us.
+
+---
+.
+├── README.md
+├── LICENSE
+├── HARDWARE.md
+├── SOFTWARE.md
+├── DATA_SECURITY.md
+├── docs/
+│   ├── teardown/
+│   ├── wiring/
+│   ├── photos/
+│   └── diagrams/
+├── firmware/
+│   ├── controller.ino
+│   └── driver.ino
+├── scripts/
+│   ├── speech_bridge.py
+│   ├── serial_bridge.py
+│   └── mic_test.py
+```
 
 ---
 
