@@ -15,13 +15,10 @@ AtheraSage is building ethically grounded AI companions designed to be wise, tru
 
 Our goal is to create a platform for real-world AI interaction across meaningful domains, including:
 
-Mental health support through counseling and therapeutic presence
-
-Education via teaching, tutoring, and mentoring for all ages
-
-Assisted care for aging adults and individuals with disabilities
-
-Advisory roles in leadership, creativity, and executive decision-making
+- **Mental health support** through counseling and therapeutic presence
+- **Education** via teaching, tutoring, and mentoring for all ages
+- **Assisted care** for aging adults and individuals with disabilities
+- **Advisory roles** in leadership, creativity, and executive decision-making
 
 
 🧠 **AI Personality Skins (APS)**:  
