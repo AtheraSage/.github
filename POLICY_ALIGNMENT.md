@@ -1,6 +1,6 @@
-# AtheraSage Alignment with the U.S. AI Action Plan
+# AtheraSage™ Alignment with the U.S. AI Action Plan
 
-This document outlines how AtheraSage aligns with the strategic pillars and priorities outlined in the Trump Administration’s second-term AI Action Plan. As a privacy-first, locally run AI platform built on open-source principles and modular personality configurations, AtheraSage directly contributes to national goals around innovation, infrastructure, and international leadership.
+This document outlines how AtheraSage aligns with the strategic pillars of the U.S. "AI Action Plan" published in July 2025. As a privacy-first, open-source AI platform for building emotionally intelligent, privacy-first companions, AtheraSage directly contributes to national goals promoting innovation, infrastructure, and international leadership.
 
 ---
 
