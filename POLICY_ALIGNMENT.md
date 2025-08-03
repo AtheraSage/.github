@@ -4,7 +4,7 @@ This document outlines how AtheraSage aligns with the strategic pillars of the U
 
 ---
 
-## 🇺🇸 Pillar 1: Accelerate AI Innovation
+## ⚙️ Pillar 1: Accelerate AI Innovation
 
 **Policy Priorities:**
 - Encourage Open-Source and Open-Weight AI
@@ -22,7 +22,7 @@ This document outlines how AtheraSage aligns with the strategic pillars of the U
 
 ---
 
-## ⚙️ Pillar 2: Build American AI Infrastructure
+## 🇺🇸 Pillar 2: Build American AI Infrastructure
 
 **Policy Priorities:**
 - Promote Secure-By-Design AI Technologies and Applications
