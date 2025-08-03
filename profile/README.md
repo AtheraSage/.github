@@ -50,6 +50,9 @@ Roadmap subject to iteration. Detailed build notes and technical documentation w
 We believe powerful AI should be open, inspectable, and  remixable —not locked behind NDAs. Our roadmap is transparent, but evolving. You’re welcome to follow, fork, or build alongside us.
 
 ---
+
+## 📁 Repo Structure
+```
 .
 ├── README.md
 ├── LICENSE
@@ -62,13 +65,13 @@ We believe powerful AI should be open, inspectable, and  remixable —not locked
 │   ├── photos/
 │   └── diagrams/
 ├── firmware/
-│   ├── controller.ino
-│   └── driver.ino
+│   ├── esp32_controller.ino
+│   └── arduino_roomba_driver.ino
 ├── scripts/
 │   ├── speech_bridge.py
 │   ├── serial_bridge.py
 │   └── mic_test.py
-
+```
 
 ---
 
