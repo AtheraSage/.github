@@ -68,7 +68,7 @@ We believe powerful AI should be open, inspectable, and  remixable —not locked
 │   ├── speech_bridge.py
 │   ├── serial_bridge.py
 │   └── mic_test.py
-```
+
 
 ---
 
