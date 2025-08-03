@@ -14,7 +14,7 @@ Creative works (diagrams, docs, media) may be separately licensed — see indivi
 
 🔹 Trademark
 
-AtheraSage™ is claimed as an unregistered trademark of [David Blank (AtheraSage™).
+AtheraSage™ is claimed as an unregistered trademark of David Blank (AtheraSage™).
 
 This includes the name, logo, and any stylized variants that refer to the project or its AI presence.
 
