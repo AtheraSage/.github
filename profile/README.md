@@ -45,11 +45,9 @@ We're calling on builders and open-source allies to help bring AtheraSage to lif
 
 ## 📄 License
 
-This project is licensed under the **Mozilla Public License 2.0 (MPL-2.0)**.
+Licensed under the **AGPL-3.0** — share it, improve it, and keep it open.  
+See `LICENSE` for details.
 
-You are free to use, modify, and distribute the code—including for commercial purposes—provided that any changes to the original files are shared under the same license.
-
-See `LICENSE` for full terms.
 
 
 > AtheraSage™ — AI Personality Skins that make a difference. 
