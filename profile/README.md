@@ -2,7 +2,7 @@
 
 # AtheraSage™
 
-AtheraSage™ is a modular AI platform for building emotionally intelligent, privacy-first assistants—powered entirely by local large language models. At its core is the AI Personality Skins™ (APS) system: modular overlays that shape how your assistant listens, responds, and behaves. Each skin is inspired by distinct philosophies or communication styles and is opt-in, locally hosted, and deeply customizable. APS lets users define the tone, ethical lens, and personality of their AI—without altering its underlying intelligence. Fully open-source and cloud-free, AtheraSage puts autonomy, expression, and privacy back in your hands.
+AtheraSage™ is a modular AI platform for building emotionally intelligent, privacy-first companions. At its core are the AI Personality Skins™ (APS), modular overlays that shape how your companion listens, responds, and behaves. Each skin is inspired by distinct philosophies or communication styles and is opt-in, locally hosted, and deeply customizable. APS lets users define the tone, ethical lens, and personality of their AI—without altering its underlying intelligence. 
 
 Use cases may include: 
 
