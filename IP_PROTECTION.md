@@ -1,6 +1,6 @@
 IP_PROTECTION.md
 
-This project, AtheraSage™, is an open-source conversational AI platform with a humanoid presence. While the code is offered freely, its name, visual identity, and branding elements are protected to ensure consistency, trust, and attribution.
+AtheraSage™ is a modular AI platform for building emotionally intelligent, privacy-first companions. At its core are the AI Personality Skins™ (APS), modular overlays that shape how your companion listens, responds, and behaves. While the code is offered freely, its name, visual identity, and branding elements are protected to ensure consistency, trust, and attribution.
 
 🔹 Copyright
 
@@ -24,7 +24,7 @@ If you'd like to build on the AtheraSage™ ecosystem, fork the codebase, or con
 
 🔹 Domain
 
-Current domain(s) in use: atherasage.com
+Current domain(s) in use: atherasage.com, atherasage.org, athera.live
 
 This domain is owned and operated by the original project creators
 
@@ -34,7 +34,7 @@ Fork the project and use the code under the open source license
 
 Contribute under the standard GitHub workflow
 
-Reference AtheraSage™ in fair-use or academic contexts
+Reference AtheraSage in fair-use or academic contexts
 
 🚫 You may not:
 
@@ -46,6 +46,5 @@ For commercial partnerships, licensing questions, or brand collaborations, reach
 
 This file exists to protect the spirit of the project, while keeping it open and collaborative.
 
-AtheraSage™ — Talk to someone who listens.
 
 Last updated: 2025-07-30
