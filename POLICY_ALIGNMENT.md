@@ -37,7 +37,7 @@ This document outlines how AtheraSage aligns with the strategic pillars of the U
 
 ---
 
-## 🌍 Pillar 3: Lead in International AI Diplomacy and Security
+## 🌍 Pillar 3: Leadership in International AI Diplomacy and Security
 
 **Policy Priorities:**
 - Export American AI to Allies and Partners
