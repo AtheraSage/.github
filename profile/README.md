@@ -1,14 +1,12 @@
 **"If you could have dinner with anyone from history..."**
 
-Conversational Robotics That Respect Sacred Trust. Privacy-First by Design.
-
-AtheraSage is a privacy-anchored, open-source robotics initiative developing soulful, embodied AI companions that operate entirely on user-owned data. We are committed to local inferencing, transparency, and open collaboration — not as marketing, but as a mission. Our ultimate goal is to pioneer emotionally intelligent robotic agents that can counsel, teach, support, and inspire—without ever violating trust.
+AtheraSage is an open-source platform for crafting emotionally intelligent AI personalities that run entirely on your device—powered by large language models, but free from cloud surveillance. Using our modular AI Personality Skins™ (APS) system, you can infuse your assistant or robot with distinct voices, values, and behaviors. Whether for creative tools, therapeutic support, or human-robot interaction, AtheraSage makes local inferencing feel deeply personal.
 
 
 🧭 **Core Principles**
 
 Privacy is the core, not a feature — all user data is stored and processed locally. No telemetry, no silent analytics, no cloud dependency. Fully open-source from hardware to firmware to UI. 
-Accessible to beginners but extensible for pros. Supports modular AI Personality Skins (APS) inspired by real-world thinkers.
+Accessible to beginners but extensible for pros. Supports modular APS inspired by real-world thinkers.
 
 
 💡 **Long-Term Vision**
