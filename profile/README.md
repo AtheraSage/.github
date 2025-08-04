@@ -8,8 +8,6 @@ Use cases may include:
 
 👩‍⚕️️ A robotic nursing assistant with APS provides round the clock care for elderly patients who choose to live at home instead of a crowded nursing home. Changes in breathing, cries for help, etc. are immediately connected with 911. 
 
-☕️ If you could have coffee with anyone from history, who would it be? Choose someone inspirational from the personality-skin library. 
-
 🧠️ Create and preserve your own unique personality-skin for generations. Help your loved ones remember your legacy by providing an APS that will retain your mental likeness for posterity. 
 
 🇺🇸️ Use a personality-skin inspired by Abraham Lincoln to help you write a persuasive speech to get that C-suite management promotion.
