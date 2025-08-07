@@ -2,15 +2,14 @@
 
 # AtheraSage™
 
-AtheraSage™ is a modular AI platform for building emotionally intelligent, privacy-first companions. At its core are the AI Personality Skins™ (APS), modular overlays that shape how your companion listens, responds, and behaves. Each skin is inspired by distinct philosophies or communication styles and is opt-in, locally hosted, and deeply customizable. APS lets users define the tone, ethical lens, and personality of their AI—without altering its underlying intelligence. 
+We’re building open-source robots with AI Personality Skins (APS) — modular overlays that add emotional depth and psychological nuance to conversational AI, entirely grounded in ethical design principles. Think: personality-as-a-plugin.
 
-Use cases may include: 
+## Use Cases — Real & Imagined:
+A robotic caregiver offers 24/7 compassionate support for aging-in-place patients — with emergency response built in.
 
-👩‍⚕️️ A robotic nursing assistant with APS provides round the clock care for elderly patients who choose to live at home instead of a crowded nursing home. Changes in breathing, cries for help, etc. are immediately connected with 911. 
+Coffee with Abraham Lincoln? Einstein? Pick from a growing APS library of legendary minds.
 
-🧠️ Create and preserve your own unique personality-skin for generations. Help your loved ones remember your legacy by providing an APS that will retain your mental likeness for posterity. 
-
-🇺🇸️ Use a personality-skin inspired by Abraham Lincoln to help you write a persuasive speech to get that C-suite management promotion.
+Preserve your own personality for future generations — wit, voice, and values as a digital heirloom.
 
 See `DATA_SECURITY.md` for implementation details, including how we ensure all processing remains on-device—no hidden network calls, no surveillance, no silent data collection.
 
