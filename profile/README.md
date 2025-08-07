@@ -14,12 +14,12 @@ Preserve your own personality for future generations — wit, voice, and values 
 See `DATA_SECURITY.md` for implementation details, including how we ensure all processing remains on-device—no hidden network calls, no surveillance, no silent data collection.
 
 ---
-## 🎯 Vision & Values
+## Vision & Values
 
 AtheraSage is building ethically grounded AI companions that are wise, trustworthy, and responsive — while keeping user privacy non-negotiable. Every interaction is powered locally, with no hidden network calls, no surveillance, and no silent data collection.
 
 ---
-## 🤝 Get Involved
+## Get Involved
 We're calling on builders and open-source allies to help bring AtheraSage to life:
 
 - Hardware tinkerers (embedded systems, motion control, sensor integration)
